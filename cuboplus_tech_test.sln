@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cuboplus_tech_test", "cuboplus_tech_test\cuboplus_tech_test.csproj", "{F687CCFD-5B3F-49E3-AB34-2610E5B359AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F687CCFD-5B3F-49E3-AB34-2610E5B359AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F687CCFD-5B3F-49E3-AB34-2610E5B359AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F687CCFD-5B3F-49E3-AB34-2610E5B359AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F687CCFD-5B3F-49E3-AB34-2610E5B359AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E63A13-E5FA-4B0D-9026-52D3B93D03CF}
+	EndGlobalSection
+EndGlobal
